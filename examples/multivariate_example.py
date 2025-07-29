@@ -36,7 +36,7 @@ def main():
         
         print(f"Final cost: {model.cost_history[-1]:.4f}")
         print(f"MSE: {mse:.4f}")
-        print(f"R² Score: {r2:.4f}")
+        print(f"R2 Score: {r2:.4f}")
         print(f"Average weight error: {np.mean(weight_errors):.4f}")
         print(f"Bias error: {bias_error:.4f}")
         
