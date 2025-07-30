@@ -41,7 +41,7 @@ This project demonstrates a deep understanding of machine learning fundamentals 
 ```bash
 # Clone the repository
 git clone https://github.com/hghaemi/linear_regression_from_scratch.git
-cd linear-regression-from-scratch
+cd linear_regression_from_scratch
 
 # Install dependencies
 pip install -r requirements.txt
@@ -132,6 +132,7 @@ linear-regression-from-scratch/
 │   └── test_models.py          # Comprehensive tests
 ├── setup.py                    # Package installation
 ├── requirements.txt            # Dependencies
+├── requirements-dev.txt        
 ├── README.md                   # This file
 ├── .gitignore                  # Git ignore rules
 └── LICENSE                     # MIT License
@@ -261,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **M. Hossein Ghaemi**
 - Email: h.ghaemi.2003@gmail.com
-- GitHub: [@hghaemi](https://github.com/hghaemi/linear_regression_from_scratch.git)
+- GitHub: [@hghaemi](https://github.com/hghaemi)
 
 ## 🙏 Acknowledgments
 
