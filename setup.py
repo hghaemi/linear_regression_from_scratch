@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="linear-regression-from-scratch",
+    name="linear_regression_from_scratch",
     version="0.1.0",
     author="M. Hossein Ghaemi",
     author_email="h.ghaemi.2003@gmail.com",
